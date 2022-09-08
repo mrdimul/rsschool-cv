@@ -25,4 +25,5 @@ Secondary special "Technician-programmer"
 ## Languages
 
 English - A2-B1
+
 Russian - Native
